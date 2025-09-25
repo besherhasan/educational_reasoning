@@ -1,0 +1,72 @@
+[
+  {
+    "_ukey": "dev:agronomy:0",
+    "split": "dev",
+    "ID": "0",
+    "Subject": "agronomy",
+    "Question": "肉牛屠宰后，胴体的哪个部位肉质较好",
+    "Option 1": "胸",
+    "Option 2": "腹",
+    "Option 3": "大腿",
+    "Option 4": "小腿",
+    "Answer": 2,
+    "Reasoning": 10,
+    "Memorization": 90
+  },
+  {
+    "_ukey": "dev:agronomy:1",
+    "split": "dev",
+    "ID": "1",
+    "Subject": "agronomy",
+    "Question": "下列鸭品种中，产蛋量最高的品种是",
+    "Option 1": "高邮鸭",
+    "Option 2": "北京鸭",
+    "Option 3": "樱桃谷鸭",
+    "Option 4": "绍鸭",
+    "Answer": 3,
+    "Reasoning": 5,
+    "Memorization": 95
+  },
+  {
+    "_ukey": "dev:agronomy:2",
+    "split": "dev",
+    "ID": "2",
+    "Subject": "agronomy",
+    "Question": "常见家畜中输精管不形成输精管壶腹的是",
+    "Option 1": "马",
+    "Option 2": "猪",
+    "Option 3": "牛",
+    "Option 4": "羊",
+    "Answer": 1,
+    "Reasoning": 0,
+    "Memorization": 100
+  },
+  {
+    "_ukey": "dev:agronomy:3",
+    "split": "dev",
+    "ID": "3",
+    "Subject": "agronomy",
+    "Question": "牛的发情周期平均为",
+    "Option 1": "16～17天",
+    "Option 2": "21天",
+    "Option 3": "28天",
+    "Option 4": "19～20天",
+    "Answer": 1,
+    "Reasoning": 0,
+    "Memorization": 100
+  },
+  {
+    "_ukey": "dev:agronomy:4",
+    "split": "dev",
+    "ID": "4",
+    "Subject": "agronomy",
+    "Question": "羊胴体中，肉质较好的部位是",
+    "Option 1": "胸下肉",
+    "Option 2": "肩胛肉",
+    "Option 3": "后腿肉",
+    "Option 4": "小腿肉",
+    "Answer": 2,
+    "Reasoning": 15,
+    "Memorization": 85
+  }
+]

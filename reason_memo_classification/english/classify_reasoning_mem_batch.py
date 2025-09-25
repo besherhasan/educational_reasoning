@@ -10,6 +10,17 @@ Outputs
 - Checkpoint: mmlu_reasoning_checkpoint.json  (updated on every ingest or poll)
 - Optional snapshots: mmlu_reasoning_labels.json (valid JSON array)
 
+
+
+python classify_reasoning_mem_batch.py \
+  --model gpt-5 \
+  --outdir ./out \
+  --json-snapshot-every 200 \
+  --batch-size 5000 \
+  --poll-interval 30 \
+  --max-wait-seconds 86400
+
+
 Usage
   export OPENAI_API_KEY=sk-...
   python classify_mmlu_reasoning_batch.py \
